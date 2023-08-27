@@ -400,7 +400,7 @@ class House(
 //    return sum as T
 //}
 
-fun main() {
+//fun main() {
 
 //    println((1..10).toList().customSum { it % 2 == 1 })
 //    println(listOf(45.45, 453.67, 346.457, 457.56).customSum { it in 100.0..500.0 })
@@ -1290,4 +1290,4 @@ fun main() {
 //    val myFavoriteNo = 94
 //    println("my age is $age")
 //    println("my favorite no is $myFavoriteNo")
-}
+//}
